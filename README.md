@@ -8,6 +8,7 @@
 
 ### 第三方包要求
 pip install selenium==4.9.1
+
 pip install openpyxl==3.1.2
 
 #### 配置Chrome浏览器和对应的驱动
